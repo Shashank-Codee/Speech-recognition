@@ -15,7 +15,7 @@ import webbrowser
 
 	import datetime
 
-	import wolframalpha
+	
 
 	import os
 
